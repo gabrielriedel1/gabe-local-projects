@@ -1,6 +1,7 @@
 library(tidyverse)
 library(readxl)
 library(RODBC)
+library(ggplot2)
 
 savant_data_path <- "data/outs_above_average_savant.xlsx"
 
@@ -19,7 +20,7 @@ join_comp_drs <- function(filepath) {
   SELECT d.[fielder_id]
       ,d.[fielder_name]
       ,d.[year]
-      ,ROUND(SUM(d.[total_runs_saved]), 2) AS mariners_drs
+      ,ROUND(SUM(d.[total_runs_saved]), 2) AS m_drs
   FROM [BBOps].[dbo].[defense] d
       INNER JOIN (SELECT [play_id], [game_type]
                   FROM [BBOps].[dbo].[pitches]
@@ -45,11 +46,25 @@ join_comp_drs <- function(filepath) {
 final_df <- join_comp_drs(savant_data_path)
 View(final_df)
 
-find_delta_drs <- function(joined_df) {
-  mutated_df <- joined_df |>
-    mutate(delta_drs = fielding_runs_prevented - mariners_drs)
-  
+find_delta_drs <- function(df) {
+  mutated_df <- df |>
+    rename(s_drs = fielding_runs_prevented) |>
+    mutate(delta_drs = m_drs - s_drs) |>
+    mutate(
+      pos_to_neg = if_else(m_drs >= 0 & s_drs < 0, 1, 0),
+      neg_to_pos = if_else(m_drs <= 0 & s_drs > 0, 1, 0)
+    ) |>
+    arrange(desc(delta_drs))
   mutated_df
 }
 
 mutated <- find_delta_drs(final_df)
+
+
+build_drs_delta_hist <- function(df) {
+  df |>
+    ggplot(aes(x=delta_drs)) +
+    geom_histogram()
+}
+
+build_drs_delta_hist(mutated)
