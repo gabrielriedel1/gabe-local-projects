@@ -1,0 +1,268 @@
+"last_name, first_name","player_id","display_team_name","year","primary_pos_formatted","s_drs","outs_above_average","fielder_name","m_drs","delta_drs","pos_to_neg","neg_to_pos"
+"Caminero, Junior",691406,"Rays",2026,"3B",-12,-16,"Junior Caminero",8.87,20.87,1,0
+"Walls, Taylor",670764,"Rays",2026,"SS",-2,-3,"Taylor Walls",16.86,18.86,1,0
+"Turang, Brice",668930,"Brewers",2026,"2B",8,11,"Brice Turang",25.67,17.67,0,0
+"Nuñez, Nasim",683083,"Nationals",2026,"2B",4,5,"Nasim Nunez",20.36,16.36,0,0
+"Neto, Zach",687263,"Angels",2026,"SS",-5,-6,"Zach Neto",10.78,15.78,1,0
+"Hamilton, David",666152,"Brewers",2026,"3B",-7,-9,"David Hamilton",5.79,12.79,1,0
+"Williamson, Ben",810938,"Rays",2026,"2B",-3,-4,"Ben Williamson",9.23,12.23,1,0
+"Hayes, Ke'Bryan",663647,"Reds",2026,"3B",3,4,"Ke'Bryan Hayes",14.96,11.96,0,0
+"Abreu, Wilyer",677800,"Red Sox",2026,"RF",2,2,"Wilyer Abreu",13.95,11.95,0,0
+"Young, Cole",702284,"Mariners",2026,"2B",-3,-4,"Cole Young",8.37,11.37,1,0
+"Griffin, Konnor",804606,"Pirates",2026,"SS",-5,-6,"Konnor Griffin",5.96,10.96,1,0
+"Torkelson, Spencer",679529,"Tigers",2026,"1B",-9,-12,"Spencer Torkelson",1.14,10.14,1,0
+"Muncy, Max",571970,"Dodgers",2026,"3B",3,4,"Max Muncy",12.65,9.65,0,0
+"Adames, Willy",642715,"Giants",2026,"SS",-13,-17,"Willy Adames",-3.74,9.26,0,0
+"Chapman, Matt",656305,"Giants",2026,"3B",3,4,"Matt Chapman",12.02,9.02,0,0
+"Jackson, Jeremiah",669236,"Orioles",2026,"2B",-1,-2,"Jeremiah Jackson",7.82,8.82,1,0
+"Happ, Ian",664023,"Cubs",2026,"LF",1,1,"Ian Happ",9.7,8.7,0,0
+"Olson, Matt",621566,"Braves",2026,"1B",5,6,"Matt Olson",13.57,8.57,0,0
+"Freeland, Alex",690976,"Dodgers",2026,"2B",2,2,"Alex Freeland",10.57,8.57,0,0
+"Vargas, Miguel",678246,"White Sox",2026,"3B",-6,-7,"Miguel Vargas",2.12,8.12,1,0
+"Burleson, Alec",676475,"Cardinals",2026,"1B",-2,-3,"Alec Burleson",6.02,8.02,1,0
+"Semien, Marcus",543760,"Mets",2026,"2B",-4,-5,"Marcus Semien",3.99,7.99,1,0
+"Mead, Curtis",678554,"---",2026,"3B",-7,-9,"Curtis Mead",0.5,7.5,1,0
+"Walker, Christian",572233,"Astros",2026,"1B",1,2,"Christian Walker",8.48,7.48,0,0
+"Monasterio, Andruw",655316,"Red Sox",2026,"SS",-11,-14,"Andruw Monasterio",-3.59,7.41,0,0
+"Kwan, Steven",680757,"Guardians",2026,"CF",7,8,"Steven Kwan",14.05,7.05,0,0
+"Vargas, Ildemaro",545121,"D-backs",2026,"2B",0,1,"Ildemaro Vargas",7.02,7.02,0,0
+"Smith, Cam",701358,"Astros",2026,"RF",4,5,"Cam Smith",10.93,6.93,0,0
+"Suzuki, Seiya",673548,"Cubs",2026,"RF",4,4,"Seiya Suzuki",10.76,6.76,0,0
+"Durbin, Caleb",702332,"Red Sox",2026,"3B",3,4,"Caleb Durbin",9.65,6.65,0,0
+"Lukes, Nathan",664770,"Blue Jays",2026,"RF",2,2,"Nathan Lukes",8.58,6.58,0,0
+"Bregman, Alex",608324,"Cubs",2026,"3B",6,7,"Alex Bregman",12.39,6.39,0,0
+"Palacios, Richie",680700,"Rays",2026,"2B",-5,-6,"Richie Palacios",1.36,6.36,1,0
+"Peraza, Oswald",672724,"Angels",2026,"2B",-1,-2,"Oswald Peraza",5.29,6.29,1,0
+"House, Brady",691781,"Nationals",2026,"3B",-2,-2,"Brady House",4.14,6.14,1,0
+"Simpson, Chandler",802415,"Rays",2026,"LF",7,8,"Chandler Simpson",12.98,5.98,0,0
+"Benge, Carson",701807,"Mets",2026,"RF",0,0,"Carson Benge",5.9,5.9,0,0
+"Walker, Jordan",691023,"Cardinals",2026,"RF",-7,-8,"Jordan Walker",-1.51,5.49,0,0
+"Martínez, Angel",682657,"Guardians",2026,"LF",2,2,"Angel Martinez",7.42,5.42,0,0
+"Pages, Andy",681624,"Dodgers",2026,"CF",8,8,"Andy Pages",13,5,0,0
+"Acuña Jr., Ronald",660670,"Braves",2026,"RF",-6,-6,"Ronald Acuna",-1.06,4.94,0,0
+"Gelof, Zack",680869,"Athletics",2026,"3B",-2,-3,"Zack Gelof",2.86,4.86,1,0
+"Williams, Alika",675961,"Athletics",2026,"SS",0,0,"Alika Williams",4.31,4.31,0,0
+"Winn, Masyn",691026,"Cardinals",2026,"SS",12,16,"Masyn Winn",16.31,4.31,0,0
+"Meidroth, Chase",805367,"White Sox",2026,"2B",7,9,"Chase Meidroth",11.15,4.15,0,0
+"Caballero, José",676609,"Yankees",2026,"SS",2,2,"Jose Caballero",6.08,4.08,0,0
+"Jarvis, Jim",805347,"Braves",2026,"SS",0,0,"Jim Jarvis",4.06,4.06,0,0
+"Busch, Michael",683737,"Cubs",2026,"1B",3,4,"Michael Busch",6.95,3.95,0,0
+"Guerrero Jr., Vladimir",665489,"Blue Jays",2026,"1B",2,3,"Vladimir Guerrero",5.85,3.85,0,0
+"Pasquantino, Vinnie",686469,"Royals",2026,"1B",0,0,"Vinnie Pasquantino",3.77,3.77,0,0
+"Yastrzemski, Mike",573262,"Braves",2026,"LF",-2,-2,"Mike Yastrzemski",1.77,3.77,1,0
+"Vientos, Mark",668901,"Mets",2026,"1B",-6,-8,"Mark Vientos",-2.24,3.76,0,0
+"Wood, James",695578,"Nationals",2026,"RF",-6,-6,"James Wood",-2.39,3.61,0,0
+"Lee, Brooks",686797,"Twins",2026,"3B",-2,-3,"Brooks Lee",1.48,3.48,1,0
+"Langford, Wyatt",694671,"Rangers",2026,"LF",3,3,"Wyatt Langford",6.28,3.28,0,0
+"Clemens, Kody",665019,"Twins",2026,"2B",1,2,"Kody Clemens",4.2,3.2,0,0
+"Sogard, Nick",686765,"Red Sox",2026,"2B",0,0,"Nick Sogard",3.2,3.2,0,0
+"Crews, Dylan",686611,"Nationals",2026,"RF",2,3,"Dylan Crews",5.19,3.19,0,0
+"Lindor, Francisco",596019,"Mets",2026,"SS",-2,-2,"Francisco Lindor",1.12,3.12,1,0
+"France, Ty",664034,"Padres",2026,"1B",6,8,"Ty France",9.09,3.09,0,0
+"Schmitt, Casey",669477,"Giants",2026,"3B",1,2,"Casey Schmitt",3.94,2.94,0,0
+"Collins, Isaac",686555,"Royals",2026,"LF",-1,-1,"Isaac Collins",1.93,2.93,1,0
+"Koss, Christian",683766,"Giants",2026,"3B",3,3,"Christian Koss",5.9,2.9,0,0
+"Freeman, Freddie",518692,"Dodgers",2026,"1B",0,1,"Freddie Freeman",2.89,2.89,0,0
+"Acuña, Luisangel",682668,"White Sox",2026,"SS",-1,-1,"Luisangel Acuna",1.85,2.85,1,0
+"Betts, Mookie",605141,"Dodgers",2026,"SS",7,10,"Mookie Betts",9.82,2.82,0,0
+"Bellinger, Cody",641355,"Yankees",2026,"LF",6,7,"Cody Bellinger",8.75,2.75,0,0
+"Montgomery, Braden",695731,"White Sox",2026,"RF",-1,-1,"Braden Montgomery",1.45,2.45,1,0
+"Chourio, Jackson",694192,"Brewers",2026,"LF",4,4,"Jackson Chourio",6.44,2.44,0,0
+"Lile, Daylen",695734,"Nationals",2026,"LF",1,1,"Daylen Lile",3.27,2.27,0,0
+"Murakami, Munetaka",808959,"White Sox",2026,"1B",0,0,"Munetaka Murakami",2.27,2.27,0,0
+"Siri, Jose",642350,"Angels",2026,"LF",0,0,"Jose Siri",2.24,2.24,0,0
+"Hernández, Heriberto",681715,"Marlins",2026,"LF",2,2,"Heriberto Hernandez",4.22,2.22,0,0
+"García Jr., Luis",671277,"---",2026,"1B",1,1,"Luis Garcia",3.21,2.21,0,0
+"Bleday, JJ",668709,"Reds",2026,"LF",-1,-1,"JJ Bleday",1.17,2.17,1,0
+"Soderstrom, Tyler",691016,"Athletics",2026,"LF",-7,-8,"Tyler Soderstrom",-4.94,2.06,0,0
+"Beavers, Dylan",687637,"Orioles",2026,"LF",-6,-7,"Dylan Beavers",-3.97,2.03,0,0
+"Thomas, Lane",657041,"---",2026,"CF",-7,-7,"Lane Thomas",-5.04,1.96,0,0
+"Clement, Ernie",676391,"Blue Jays",2026,"2B",-3,-4,"Ernie Clement",-1.05,1.95,0,0
+"Henderson, Gunnar",683002,"Orioles",2026,"SS",2,2,"Gunnar Henderson",3.89,1.89,0,0
+"Riley, Austin",663586,"Braves",2026,"3B",-1,-1,"Austin Riley",0.83,1.83,1,0
+"Lee, Hao-Yu",701678,"Tigers",2026,"2B",-9,-11,"Hao-Yu Lee",-7.19,1.81,0,0
+"Horwitz, Spencer",687462,"Pirates",2026,"1B",-4,-5,"Spencer Horwitz",-2.36,1.64,0,0
+"Edwards, Xavier",669364,"Marlins",2026,"2B",-3,-4,"Xavier Edwards",-1.4,1.6,0,0
+"Lewis, Royce",668904,"Twins",2026,"1B",-2,-3,"Royce Lewis",-0.46,1.54,0,0
+"Mateo, Jorge",622761,"---",2026,"SS",0,0,"Jorge Mateo",1.53,1.53,0,0
+"McGonigle, Kevin",805808,"Tigers",2026,"SS",-1,-1,"Kevin McGonigle",0.5,1.5,1,0
+"Outman, James",681546,"---",2026,"CF",2,2,"James Outman",3.47,1.47,0,0
+"Moniak, Mickey",666160,"Rockies",2026,"LF",-1,-1,"Mickey Moniak",0.35,1.35,1,0
+"Duran, Jarren",680776,"Red Sox",2026,"LF",5,6,"Jarren Duran",6.35,1.35,0,0
+"Caglianone, Jac",695506,"Royals",2026,"RF",-8,-9,"Jac Caglianone",-6.73,1.27,0,0
+"Cowser, Colton",681297,"Orioles",2026,"CF",7,8,"Colton Cowser",8.22,1.22,0,0
+"Ramos, Heliot",671218,"---",2026,"LF",-5,-6,"Heliot Ramos",-3.91,1.09,0,0
+"Arozarena, Randy",668227,"Mariners",2026,"LF",-4,-5,"Randy Arozarena",-2.97,1.03,0,0
+"Greene, Riley",682985,"Tigers",2026,"LF",-2,-2,"Riley Greene",-0.99,1.01,0,0
+"Emerson, Colt",806068,"Mariners",2026,"SS",-3,-4,"Colt Emerson",-2.01,0.99,0,0
+"Carter, Evan",694497,"Rangers",2026,"CF",8,9,"Evan Carter",8.93,0.93,0,0
+"Martin, Austin",668885,"Twins",2026,"RF",1,1,"Austin Martin",1.92,0.92,0,0
+"Baty, Brett",683146,"Mets",2026,"3B",0,0,"Brett Baty",0.9,0.9,0,0
+"Tucker, Kyle",663656,"Dodgers",2026,"RF",-8,-9,"Kyle Tucker",-7.14,0.86,0,0
+"Schanuel, Nolan",694384,"Angels",2026,"1B",3,4,"Nolan Schanuel",3.86,0.86,0,0
+"Marsh, Brandon",669016,"Phillies",2026,"LF",-1,-1,"Brandon Marsh",-0.15,0.85,0,0
+"Alonso, Pete",624413,"Orioles",2026,"1B",2,2,"Pete Alonso",2.83,0.83,0,0
+"Vilade, Ryan",668723,"Rays",2026,"RF",-2,-3,"Ryan Vilade",-1.18,0.82,0,0
+"Tatis Jr., Fernando",665487,"Padres",2026,"RF",3,4,"Fernando Tatis",3.81,0.81,0,0
+"Peña, Jeremy",665161,"Astros",2026,"SS",-1,-1,"Jeremy Pena",-0.2,0.8,0,0
+"Loftin, Nick",679845,"Royals",2026,"3B",-3,-3,"Nick Loftin",-2.27,0.73,0,0
+"Dubón, Mauricio",643289,"Braves",2026,"SS",4,5,"Mauricio Dubon",4.72,0.72,0,0
+"Taveras, Leody",665750,"Orioles",2026,"CF",-2,-2,"Leody Taveras",-1.3,0.7,0,0
+"Abrams, CJ",682928,"Nationals",2026,"SS",-12,-16,"CJ Abrams",-11.34,0.66,0,0
+"Triolo, Jared",669707,"Pirates",2026,"SS",-1,-1,"Jared Triolo",-0.39,0.61,0,0
+"Antonacci, Sam",803011,"White Sox",2026,"LF",-6,-7,"Sam Antonacci",-5.53,0.47,0,0
+"Gray, Tristan",656484,"Twins",2026,"SS",-3,-4,"Tristan Gray",-2.75,0.25,0,0
+"Crawford, J.P.",641487,"Mariners",2026,"SS",-8,-10,"J.P. Crawford",-7.76,0.24,0,0
+"Trammell, Taylor",666211,"Astros",2026,"CF",-1,-1,"Taylor Trammell",-0.83,0.17,0,0
+"Young, Jared",676724,"Mets",2026,"1B",-1,-1,"Jared Young",-0.85,0.15,0,0
+"O'Hearn, Ryan",656811,"Pirates",2026,"1B",-3,-3,"Ryan O'Hearn",-2.85,0.15,0,0
+"Larnach, Trevor",663616,"Twins",2026,"LF",-4,-4,"Trevor Larnach",-3.86,0.14,0,0
+"Steer, Spencer",668715,"Reds",2026,"1B",-2,-2,"Spencer Steer",-1.88,0.12,0,0
+"Tawa, Tim",694374,"D-backs",2026,"1B",1,1,"Tim Tawa",1.11,0.11,0,0
+"Frelick, Sal",686217,"Brewers",2026,"RF",0,0,"Sal Frelick",0.08,0.08,0,0
+"Sosa, Edmundo",624641,"Phillies",2026,"2B",2,3,"Edmundo Sosa",2.07,0.0699999999999998,0,0
+"Alexander, Blaze",677942,"Orioles",2026,"3B",-5,-6,"Blaze Alexander",-4.96,0.04,0,0
+"Johnston, Troy",687859,"Rockies",2026,"RF",-2,-2,"Troy Johnston",-1.99,0.01,0,0
+"Báez, Javier",595879,"Tigers",2026,"SS",-2,-2,"Javier Baez",-2.01,-0.00999999999999979,0,0
+"Mayo, Coby",691723,"Orioles",2026,"3B",-2,-2,"Coby Mayo",-2.03,-0.0299999999999998,0,0
+"Church, Nathan",701675,"Cardinals",2026,"CF",2,2,"Nathan Church",1.95,-0.05,0,0
+"Jung, Josh",673962,"Rangers",2026,"3B",-2,-3,"Josh Jung",-2.06,-0.0600000000000001,0,0
+"Gonzalez, Jacob",694378,"---",2026,"SS",-3,-4,"Jacob Gonzalez",-3.06,-0.0600000000000001,0,0
+"Caissie, Owen",683357,"Marlins",2026,"RF",-6,-7,"Owen Caissie",-6.19,-0.19,0,0
+"Matthews, Brice",694728,"Astros",2026,"CF",4,5,"Brice Matthews",3.7,-0.3,0,0
+"Rumfield, TJ",681198,"Rockies",2026,"1B",4,6,"TJ Rumfield",3.65,-0.35,0,0
+"Lowe, Josh",666139,"Angels",2026,"LF",2,2,"Josh Lowe",1.65,-0.35,0,0
+"Rafaela, Ceddanne",678882,"Red Sox",2026,"CF",14,15,"Ceddanne Rafaela",13.58,-0.42,0,0
+"Sanoja, Javier",691594,"Marlins",2026,"3B",3,4,"Javier Sanoja",2.52,-0.48,0,0
+"Merrill, Jackson",701538,"Padres",2026,"CF",4,5,"Jackson Merrill",3.49,-0.51,0,0
+"Mangum, Jake",663968,"Pirates",2026,"CF",2,2,"Jake Mangum",1.43,-0.57,0,0
+"Torres, Gleyber",650402,"Tigers",2026,"2B",0,-1,"Gleyber Torres",-0.59,-0.59,0,0
+"Nimmo, Brandon",607043,"Rangers",2026,"RF",-3,-3,"Brandon Nimmo",-3.61,-0.61,0,0
+"Reynolds, Bryan",668804,"Pirates",2026,"LF",-3,-3,"Bryan Reynolds",-3.61,-0.61,0,0
+"Hoerner, Nico",663538,"Cubs",2026,"2B",7,9,"Nico Hoerner",6.37,-0.63,0,0
+"Keith, Colt",690993,"Tigers",2026,"3B",0,0,"Colt Keith",-0.64,-0.64,0,0
+"Grisham, Trent",663757,"Yankees",2026,"CF",-5,-6,"Trent Grisham",-5.84,-0.84,0,0
+"Foscue, Justin",679822,"Rangers",2026,"2B",2,3,"Justin Foscue",1.02,-0.98,0,0
+"Tovar, Ezequiel",678662,"Rockies",2026,"SS",0,-1,"Ezequiel Tovar",-1.01,-1.01,0,0
+"Sheets, Gavin",657757,"Padres",2026,"1B",-4,-4,"Gavin Sheets",-5.02,-1.02,0,0
+"Ewing, A.J.",805999,"Mets",2026,"CF",5,6,"A.J. Ewing",3.98,-1.02,0,0
+"Grissom, Vaughn",687093,"Angels",2026,"2B",-6,-8,"Vaughn Grissom",-7.08,-1.08,0,0
+"Allen, Nick",669397,"Astros",2026,"SS",-1,-1,"Nick Allen",-2.09,-1.09,0,0
+"Story, Trevor",596115,"Red Sox",2026,"SS",-2,-3,"Trevor Story",-3.09,-1.09,0,0
+"Waldschmidt, Ryan",814439,"D-backs",2026,"CF",2,2,"Ryan Waldschmidt",0.86,-1.14,0,0
+"Mayer, Marcelo",691785,"Red Sox",2026,"2B",0,0,"Marcelo Mayer",-1.16,-1.16,0,0
+"Rojas, Miguel",500743,"Dodgers",2026,"2B",2,3,"Miguel Rojas",0.81,-1.19,0,0
+"Hernández, Teoscar",606192,"Dodgers",2026,"LF",-5,-5,"Teoscar Hernandez",-6.21,-1.21,0,0
+"Crow-Armstrong, Pete",691718,"Cubs",2026,"CF",22,24,"Pete Crow-Armstrong",20.75,-1.25,0,0
+"Straw, Myles",664702,"Blue Jays",2026,"CF",5,5,"Myles Straw",3.63,-1.37,0,0
+"Massey, Michael",686681,"Royals",2026,"2B",6,8,"Michael Massey",4.56,-1.44,0,0
+"Naylor, Josh",647304,"Mariners",2026,"1B",1,1,"Josh Naylor",-0.59,-1.59,0,1
+"Edman, Tommy",669242,"Dodgers",2026,"2B",3,4,"Tommy Edman",1.38,-1.62,0,0
+"Vivas, Jorbit",678391,"Nationals",2026,"2B",2,3,"Jorbit Vivas",0.38,-1.62,0,0
+"Lee, Jung Hoo",808982,"Giants",2026,"RF",-4,-5,"Jung Hoo Lee",-5.66,-1.66,0,0
+"DeLuca, Jonny",676356,"Rays",2026,"RF",9,10,"Jonny DeLuca",7.3,-1.7,0,0
+"Aranda, Jonathan",666018,"Rays",2026,"1B",0,0,"Jonathan Aranda",-1.79,-1.79,0,0
+"Gorman, Nolan",669357,"Cardinals",2026,"3B",1,1,"Nolan Gorman",-0.8,-1.8,0,1
+"Gilbert, Drew",687551,"Giants",2026,"CF",2,3,"Drew Gilbert",0.12,-1.88,0,0
+"Manzardo, Kyle",700932,"Guardians",2026,"1B",-4,-5,"Kyle Manzardo",-5.95,-1.95,0,0
+"Gonzales, Nick",693304,"Pirates",2026,"3B",-8,-11,"Nick Gonzales",-9.96,-1.96,0,0
+"Goldschmidt, Paul",502671,"Yankees",2026,"1B",4,5,"Paul Goldschmidt",1.96,-2.04,0,0
+"Lowe, Brandon",664040,"Pirates",2026,"2B",9,12,"Brandon Lowe",6.87,-2.13,0,0
+"Sánchez, Jesús",660821,"Blue Jays",2026,"LF",-7,-7,"Jesus Sanchez",-9.23,-2.23,0,0
+"Burger, Jake",669394,"Rangers",2026,"1B",1,1,"Jake Burger",-1.38,-2.38,0,1
+"Bohm, Alec",664761,"Phillies",2026,"3B",-6,-8,"Alec Bohm",-8.39,-2.39,0,0
+"Ward, Taylor",621493,"---",2026,"LF",-1,-1,"Taylor Ward",-3.44,-2.44,0,0
+"Fermín, José",665877,"Cardinals",2026,"3B",-1,-1,"Jose Fermin",-3.47,-2.47,0,0
+"Kreidler, Ryan",668952,"Twins",2026,"SS",2,2,"Ryan Kreidler",-0.5,-2.5,0,1
+"Raley, Luke",670042,"Mariners",2026,"RF",-6,-6,"Luke Raley",-8.53,-2.53,0,0
+"Trout, Mike",545361,"Angels",2026,"CF",-4,-4,"Mike Trout",-6.54,-2.54,0,0
+"Rodríguez, Julio",677594,"Mariners",2026,"CF",-2,-2,"Julio Rodriguez",-4.58,-2.58,0,0
+"Rice, Ben",700250,"Yankees",2026,"1B",-5,-6,"Ben Rice",-7.6,-2.6,0,0
+"Bauers, Jake",641343,"Brewers",2026,"1B",-8,-11,"Jake Bauers",-10.6,-2.6,0,0
+"Song, Sung-Mun",823550,"Padres",2026,"2B",2,3,"Sung-Mun Song",-0.63,-2.63,0,1
+"Rengifo, Luis",650859,"---",2026,"3B",-1,-2,"Luis Rengifo",-3.64,-2.64,0,0
+"Myers, Dane",667472,"Reds",2026,"CF",0,0,"Dane Myers",-2.67,-2.67,0,0
+"Seager, Corey",608369,"Rangers",2026,"SS",1,2,"Corey Seager",-1.71,-2.71,0,1
+"Keaschall, Luke",807712,"Twins",2026,"2B",-9,-11,"Luke Keaschall",-11.73,-2.73,0,0
+"Karros, Kyle",691720,"Rockies",2026,"3B",0,0,"Kyle Karros",-2.76,-2.76,0,0
+"Doyle, Brenton",686668,"---",2026,"CF",-1,-1,"Brenton Doyle",-3.81,-2.81,0,0
+"Buxton, Byron",621439,"Twins",2026,"CF",3,3,"Byron Buxton",0.12,-2.88,0,0
+"Kurtz, Nick",701762,"Athletics",2026,"1B",-2,-3,"Nick Kurtz",-4.92,-2.92,0,0
+"Devers, Rafael",646240,"Giants",2026,"1B",-1,-2,"Rafael Devers",-3.93,-2.93,0,0
+"Ramírez, José",608070,"Guardians",2026,"3B",2,2,"Jose Ramirez",-0.96,-2.96,0,1
+"Wetherholt, JJ",802139,"Cardinals",2026,"2B",16,22,"JJ Wetherholt",13.04,-2.96,0,0
+"Contreras, Willson",575929,"Red Sox",2026,"1B",1,1,"Willson Contreras",-2,-3,0,1
+"Freeman, Tyler",671289,"Rockies",2026,"RF",-7,-8,"Tyler Freeman",-10.04,-3.04,0,0
+"Mitchell, Garrett",669003,"Brewers",2026,"CF",5,5,"Garrett Mitchell",1.92,-3.08,0,0
+"McKinstry, Zach",656716,"Tigers",2026,"2B",6,7,"Zach McKinstry",2.83,-3.17,0,0
+"Jordan, Blaze",691458,"Cardinals",2026,"3B",1,2,"Blaze Jordan",-2.25,-3.25,0,1
+"Young, Jacob",696285,"Nationals",2026,"CF",10,11,"Jacob Young",6.64,-3.36,0,0
+"Marte, Ketel",606466,"D-backs",2026,"2B",2,2,"Ketel Marte",-1.46,-3.46,0,1
+"Carroll, Corbin",682998,"D-backs",2026,"RF",9,10,"Corbin Carroll",5.45,-3.55,0,0
+"Stewart, Sal",701398,"Reds",2026,"1B",0,0,"Sal Stewart",-3.69,-3.69,0,0
+"Mullins, Cedric",656775,"Rays",2026,"CF",10,11,"Cedric Mullins",6.29,-3.71,0,0
+"Bazzana, Travis",683953,"Guardians",2026,"2B",-1,-1,"Travis Bazzana",-4.73,-3.73,0,0
+"Garcia, Maikel",672580,"Royals",2026,"3B",5,6,"Maikel Garcia",1.24,-3.76,0,0
+"Paredes, Isaac",670623,"Astros",2026,"3B",-1,-1,"Isaac Paredes",-4.81,-3.81,0,0
+"Cruz, Oneil",665833,"Pirates",2026,"CF",-2,-2,"Oneil Cruz",-5.93,-3.93,0,0
+"Stowers, Kyle",669065,"Marlins",2026,"1B",-1,-2,"Kyle Stowers",-4.93,-3.93,0,0
+"Crawford, Justin",702222,"Phillies",2026,"CF",0,-1,"Justin Crawford",-3.98,-3.98,0,0
+"Norby, Connor",681393,"---",2026,"1B",0,0,"Connor Norby",-3.99,-3.99,0,0
+"Perdomo, Geraldo",672695,"D-backs",2026,"SS",9,12,"Geraldo Perdomo",4.91,-4.09,0,0
+"Arroyo, Edwin",695490,"Reds",2026,"2B",2,3,"Edwin Arroyo",-2.09,-4.09,0,1
+"Montgomery, Colson",695657,"White Sox",2026,"SS",7,10,"Colson Montgomery",2.82,-4.18,0,0
+"Vaughn, Andrew",683734,"Brewers",2026,"1B",-4,-5,"Andrew Vaughn",-8.3,-4.3,0,0
+"Ruiz, Esteury",665923,"Marlins",2026,"RF",-1,-1,"Esteury Ruiz",-5.32,-4.32,0,0
+"McMahon, Ryan",641857,"Yankees",2026,"3B",3,4,"Ryan McMahon",-1.37,-4.37,0,1
+"Arraez, Luis",650333,"---",2026,"2B",9,12,"Luis Arraez",4.57,-4.43,0,0
+"Rivas, Leo",660844,"Mariners",2026,"3B",-1,-1,"Leo Rivas",-5.45,-4.45,0,0
+"Castro, Willi",650489,"Rockies",2026,"2B",-5,-6,"Willi Castro",-9.46,-4.46,0,0
+"Adell, Jo",666176,"---",2026,"RF",-3,-4,"Jo Adell",-7.82,-4.82,0,0
+"Osuna, Alejandro",696030,"Rangers",2026,"LF",-6,-7,"Alejandro Osuna",-10.9,-4.9,0,0
+"Lopez, Otto",672640,"Marlins",2026,"SS",9,12,"Otto Lopez",4.03,-4.97,0,0
+"Volpe, Anthony",683011,"Yankees",2026,"SS",4,6,"Anthony Volpe",-1.02,-5.02,0,1
+"Varsho, Daulton",662139,"---",2026,"CF",5,6,"Daulton Varsho",-0.07,-5.07,0,1
+"McNeil, Jeff",643446,"Athletics",2026,"2B",-3,-3,"Jeff McNeil",-8.07,-5.07,0,0
+"Bolte, Henry",703607,"Athletics",2026,"CF",3,3,"Henry Bolte",-2.47,-5.47,0,1
+"Cronenworth, Jake",630105,"Padres",2026,"2B",-3,-4,"Jake Cronenworth",-8.49,-5.49,0,0
+"Pratt, Cooper",806198,"Brewers",2026,"SS",3,4,"Cooper Pratt",-2.56,-5.56,0,1
+"Ortiz, Joey",687401,"Brewers",2026,"SS",8,11,"Joey Ortiz",2.31,-5.69,0,0
+"Isbel, Kyle",664728,"Royals",2026,"CF",5,6,"Kyle Isbel",-0.72,-5.72,0,1
+"Arenado, Nolan",571448,"D-backs",2026,"3B",2,3,"Nolan Arenado",-3.73,-5.73,0,1
+"Peters, Tristan",671976,"White Sox",2026,"CF",10,11,"Tristan Peters",4.01,-5.99,0,0
+"Schneemann, Daniel",682177,"Guardians",2026,"3B",5,6,"Daniel Schneemann",-1.11,-6.11,0,1
+"Vierling, Matt",663837,"Tigers",2026,"CF",2,2,"Matt Vierling",-4.2,-6.2,0,1
+"Harris II, Michael",671739,"Braves",2026,"CF",10,11,"Michael Harris",3.61,-6.39,0,0
+"Bogaerts, Xander",593428,"Padres",2026,"SS",1,2,"Xander Bogaerts",-5.41,-6.41,0,1
+"Scott II, Victor",687363,"Cardinals",2026,"CF",3,3,"Victor Scott",-3.42,-6.42,0,1
+"Smith, Josh",669701,"---",2026,"2B",-2,-3,"Josh Smith",-8.53,-6.53,0,0
+"Swanson, Dansby",621020,"Cubs",2026,"SS",12,16,"Dansby Swanson",5.47,-6.53,0,0
+"Seigler, Anthony",678011,"Red Sox",2026,"2B",-3,-4,"Anthony Seigler",-9.58,-6.58,0,0
+"Okamoto, Kazuma",672960,"Blue Jays",2026,"3B",-1,-1,"Kazuma Okamoto",-8.22,-7.22,0,0
+"Rocchio, Brayan",677587,"Guardians",2026,"SS",10,13,"Brayan Rocchio",2.66,-7.34,0,0
+"Julien, Edouard",666397,"Rockies",2026,"2B",-3,-4,"Edouard Julien",-10.4,-7.4,0,0
+"Butler, Lawrence",671732,"Athletics",2026,"RF",-9,-9,"Lawrence Butler",-16.55,-7.55,0,0
+"Friedl, TJ",670770,"Reds",2026,"CF",3,4,"TJ Friedl",-4.96,-7.96,0,1
+"McCarthy, Jake",664983,"Rockies",2026,"CF",2,2,"Jake McCarthy",-6.16,-8.16,0,1
+"Albies, Ozzie",645277,"Braves",2026,"2B",0,0,"Ozzie Albies",-8.35,-8.35,0,0
+"Holliday, Jackson",702616,"Orioles",2026,"2B",-3,-4,"Jackson Holliday",-11.63,-8.63,0,0
+"Harper, Bryce",547180,"Phillies",2026,"1B",-4,-5,"Bryce Harper",-12.67,-8.67,0,0
+"McLain, Matt",680574,"Reds",2026,"2B",3,4,"Matt McLain",-5.77,-8.77,0,1
+"Hernaiz, Darell",687231,"Athletics",2026,"SS",-1,-1,"Darell Hernaiz",-9.82,-8.82,0,0
+"Duran, Ezequiel",677649,"Rangers",2026,"SS",12,16,"Ezequiel Duran",2.9,-9.1,0,0
+"Muncy, Max",691777,"Athletics",2026,"3B",-5,-6,"Max Muncy",-14.19,-9.19,0,0
+"Turner, Trea",607208,"Phillies",2026,"SS",-6,-8,"Trea Turner",-15.35,-9.35,0,0
+"Marsee, Jakob",805300,"Marlins",2026,"CF",6,6,"Jakob Marsee",-3.39,-9.39,0,1
+"Carrigg, Cole",694249,"Rockies",2026,"CF",1,1,"Cole Carrigg",-8.75,-9.75,0,1
+"Stott, Bryson",681082,"Phillies",2026,"2B",7,10,"Bryson Stott",-2.92,-9.92,0,1
+"Jones, Spencer",682987,"Yankees",2026,"RF",-1,-1,"Spencer Jones",-11.14,-10.14,0,0
+"Giménez, Andrés",665926,"Blue Jays",2026,"SS",14,19,"Andres Gimenez",3.59,-10.41,0,0
+"Lopez, Nicky",670032,"---",2026,"2B",1,1,"Nicky Lopez",-9.52,-10.52,0,1
+"Machado, Manny",592518,"Padres",2026,"3B",5,7,"Manny Machado",-6.37,-11.37,0,1
+"Wilson, Jacob",805779,"Athletics",2026,"SS",7,9,"Jacob Wilson",-5.7,-12.7,0,1
+"Chisholm Jr., Jazz",665862,"Yankees",2026,"2B",8,11,"Jazz Chisholm",-4.8,-12.8,0,1
+"Altuve, Jose",514888,"Astros",2026,"2B",-4,-5,"Jose Altuve",-16.8,-12.8,0,0
+"De La Cruz, Elly",682829,"Reds",2026,"SS",5,7,"Elly De La Cruz",-9.04,-14.04,0,1
+"Witt Jr., Bobby",677951,"Royals",2026,"SS",18,24,"Bobby Witt",3.08,-14.92,0,0
+"Bichette, Bo",666182,"Mets",2026,"3B",-1,-2,"Bo Bichette",-16.76,-15.76,0,0
+"Guzman, Denzer",694203,"Angels",2026,"3B",1,1,"Denzer Guzman",-15.41,-16.41,0,1
